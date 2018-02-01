@@ -4,10 +4,6 @@
 I am a web developer base in Quebec city. Here you can find a list of my personnal projects
 i made to show skills with different technologies.
 
-<button type="button">welcome</button>
-
-
-
 ## Projects
 
 [TravelList](http://heroku.com "Find me on Heroku")
