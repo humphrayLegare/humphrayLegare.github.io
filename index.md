@@ -1,7 +1,7 @@
 <img src="https://humphraylegare.github.io/humphray200.jpg" alt="humphray legare" style="display:block; margin:auto; text-align:center;"/>
 
 ## Welcome to my portfolio
-I am a web developer based in Quebec City. 
+I am a web developer based in Quebec City.</br>
 Here you can find a list of my personal projects I made to show my skills with different technologies.
 
 ## Projects
