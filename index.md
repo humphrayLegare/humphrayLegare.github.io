@@ -1,3 +1,8 @@
+![Humphray Legare](https://humphraylegare.github.io/humphray10.jpg "Me")
+
+
+
+
 ## Welcome to my portfolio
 I am a web developer base in Quebec city. Here you can find a list of my personnal projects
 i made to show skills with different technologies.
