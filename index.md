@@ -23,4 +23,4 @@ i made to show skills with different technologies.
 
 
 ## Contact
-> You can contact me on [Linkedin](https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/ "Linkedin"), [Twitter](https://twitter.com/humphrayLegare "Twitter") or [Facebook](https://www.facebook.com/humphray.legare "Facebook") or by email xg7nd9qegg@tuta.io
+> You can contact me on [Linkedin](https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/ "Linkedin"), [Twitter](https://twitter.com/humphrayLegare "Twitter") or [Facebook](https://www.facebook.com/humphray.legare "Facebook") or by email humphray@tuta.io
