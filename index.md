@@ -13,7 +13,7 @@ Here you can find a list of my personal projects I made to show my skills with d
 [Quiz Kpop Scandals](http://heroku.com "Find me on Heroku")
 > This is a quiz about some scandals that occurred in the Kpop industry in South Korea. The application is made with  __Typescript__ and is made so using the __Google service worker__. The application is usable offline.
   
-[Home Selling Tool](http://heroku.com "Find me on Heroku") (in development)
+[Home Selling Tool](http://heroku.com "Find me on Heroku") (_in development_)
 > This application was made with the ruby framework __Ruby On Rails__. It is a tool for a fictive home selling company who would like to manage the different houses advertisement. Put some publicity about the company and the people who work there with different houses they each are trying to find buyers for. As well, there is an administrator section that was set up with the __active_admin__ gem.
 
 
