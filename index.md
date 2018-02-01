@@ -1,8 +1,7 @@
 <img src="https://humphraylegare.github.io/humphray200.jpg" alt="humphray legare" style="display:block; margin:auto; text-align:center;"/>
 
 ## Welcome to my portfolio
-I am a web developer based in Quebec City.
-</br>
+I am a web developer based in Quebec City.<br/>
 Here you can find a list of my personal projects I made to show my skills with different technologies.
 
 ## Projects
@@ -19,6 +18,5 @@ Here you can find a list of my personal projects I made to show my skills with d
 
 
 ## Contact
-> You can contact me on [Linkedin](https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/ "Linkedin"), [Twitter](https://twitter.com/humphrayLegare "Twitter") or via Email at humphray@tuta.io 
-</br></br>
+> You can contact me on [Linkedin](https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/ "Linkedin"), [Twitter](https://twitter.com/humphrayLegare "Twitter") or via Email at humphray@tuta.io <br/><br/>
 > As well, if you would need **a wonderful creative artist** for design related topics, I would strongly recommend my wonderful and lovely girlfriend **Sim Bomi** who you can reach on [Linkedin](https://www.linkedin.com/in/bomi-s-96103098/ "Linkedin")
