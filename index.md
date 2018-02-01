@@ -1,37 +1,15 @@
 ## Welcome to my portfolio
+I am a web developer base in Quebec city. Here you can find a list of my personnal projects
+i made to show skills with different technologies.
 
-You can use the [editor on GitHub](https://github.com/humphrayLegare/humphrayLegare.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+[TravelList](http://heroku.com)
+> This application was made with Angular. It is a small application so one can make a list of 
+  different places he or she would like to travel to and then get the list sent by email.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/humphrayLegare/humphrayLegare.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Quiz Kpop Scandals](http://heroku.com "A title test")
+> This is a quiz about some scandals that occured in the Kpop industrie in South korea.
+  The application was made with Typescript and was made so it was using the Google service worker.
+  The application is usable offline.
