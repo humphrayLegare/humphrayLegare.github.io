@@ -1,12 +1,10 @@
 ![Humphray Legare](https://humphraylegare.github.io/humphray200.jpg "Me")
 
-
-
-
 ## Welcome to my portfolio
 I am a web developer base in Quebec city. Here you can find a list of my personnal projects
 i made to show skills with different technologies.
 
+***
 
 ## Projects
 
@@ -24,3 +22,7 @@ i made to show skills with different technologies.
   who would like to manage the different houses advertisement. Put some publicity about the company and the people who work there
   in junction with the different house the each are trying to find buyer for. There is an administrator section that was
   setup with the gem __active_admin__.
+
+***
+## Contact
+> You can contact me on Twitter or Facebok or via my email address [xg7nd9qegg@tuta.io]
