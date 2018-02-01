@@ -4,7 +4,7 @@
 I am a web developer base in Quebec city. Here you can find a list of my personnal projects
 i made to show skills with different technologies.
 
-***
+
 
 ## Projects
 
@@ -23,6 +23,6 @@ i made to show skills with different technologies.
   in junction with the different house the each are trying to find buyer for. There is an administrator section that was
   setup with the gem __active_admin__.
 
-***
+
 ## Contact
 > You can contact me on [Linkedin](https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/ "Linkedin"), [Twitter](https://twitter.com/humphrayLegare "Twitter") or [Facebok](https://www.facebook.com/humphray.legare "Facebook") or via my email address xg7nd9qegg@tuta.io
