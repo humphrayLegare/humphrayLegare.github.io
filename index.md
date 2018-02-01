@@ -1,4 +1,4 @@
-<img src="https://humphraylegare.github.io/humphray200.jpg" alt="humphray legare" style="display:block; margin:auto; text-align:center;"/>
+<img src="https://humphraylegare.github.io/humphray200.jpg" alt="humphray legare" style="display:block; margin:auto; width:200px; text-align:center;"/>
 
 ## Welcome to my portfolio
 I am a web developer based in Quebec City.<br/>
