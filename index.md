@@ -1,9 +1,4 @@
-<img src="https://humphraylegare.github.io/humphray200.jpg" alt="oops" style="display:block; margin:auto; text-align:center;"/>
-
-<a class="twitter-timeline" data-width="500" href="https://twitter.com/humphrayLegare?ref_src=twsrc%5Etfw">Tweets by humphrayLegare</a>
-
-
-![Humphray Legare](https://humphraylegare.github.io/humphray200.jpg "Me")
+<img src="https://humphraylegare.github.io/humphray200.jpg" alt="humphray legare" style="display:block; margin:auto; text-align:center;"/>
 
 ## Welcome to my portfolio
 I am a web developer base in Quebec city. Here you can find a list of my personnal projects
@@ -30,4 +25,4 @@ i made to show skills with different technologies.
 
 
 ## Contact
-> You can contact me on [Linkedin](https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/ "Linkedin"), [Twitter](https://twitter.com/humphrayLegare "Twitter") or [Facebok](https://www.facebook.com/humphray.legare "Facebook") or via my email address xg7nd9qegg@tuta.io
+> You can contact me on [Linkedin](https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/ "Linkedin"), [Twitter](https://twitter.com/humphrayLegare "Twitter") or [Facebok](https://www.facebook.com/humphray.legare "Facebook") or by email xg7nd9qegg@tuta.io
