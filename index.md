@@ -1,3 +1,8 @@
+<img src="https://humphraylegare.github.io/humphray200.jpg" alt="oops" style="display:block; margin:auto; text-align:center;"/>
+
+<a class="twitter-timeline" data-width="500" href="https://twitter.com/humphrayLegare?ref_src=twsrc%5Etfw">Tweets by humphrayLegare</a>
+
+
 ![Humphray Legare](https://humphraylegare.github.io/humphray200.jpg "Me")
 
 ## Welcome to my portfolio
