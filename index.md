@@ -13,6 +13,7 @@ i made to show skills with different technologies.
 > This is a quiz about some scandals that occured in the Kpop industrie in South korea.
   The application was made with Typescript and was made so it was using the Google service worker.
   The application is usable offline.
+  
 [Home Selling Tool](http://heroku.com "Find me on Heroku")
 > This application was made with  the ruby framework Ruby On Rails. It is a tool for a fictive home selling company
   who would like to manage the different houses advertisement. Put some publicity about the company and the people who work there
