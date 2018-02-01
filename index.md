@@ -22,4 +22,7 @@ Here you can find a list of my personal projects I made to show my skills with d
 > You can contact me on 
 <a href="https://www.linkedin.com/in/humphray-l%C3%A9gar%C3%A9-a188b58a/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/humphrayLegare" target="_blank">Twitter</a> 
   or via Email at humphray@tuta.io <br/><br/>
-> As well, if you would need **a wonderful creative artist** for design related topics, I would strongly recommend my wonderful and lovely girlfriend **Sim Bomi** who you can reach on [Linkedin](https://www.linkedin.com/in/bomi-s-96103098/ "Linkedin")
+> As well, if you would need **a wonderful creative artist** for design related topics, I would strongly recommend my wonderful and lovely girlfriend **Sim Bomi** who you can reach on <a href="https://www.linkedin.com/in/bomi-s-96103098/" target="_blank">LinkedIn</a>
+
+
+[Linkedin](https://www.linkedin.com/in/bomi-s-96103098/ "Linkedin"){:target="_blank"}
