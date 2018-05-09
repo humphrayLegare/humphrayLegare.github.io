@@ -6,9 +6,10 @@ Here you can find a list of my personal projects I made to show my skills with d
 
 ## Projects
 
-[Landing-pages](https://acces2.prospection.qc.ca/seo)
+[Landing-pages](https://prospection.qc.ca/seo/)
 > I made some landing-pages for marketing at Prospection. The pages are integrate with Bootstrap4 and the form is validate
  with __jQuery__ and __PHP__.
+ (other version can be found here [Dev](https://prospection.qc.ca/dev/), [Ecommerce](https://prospection.qc.ca/ecommerce/))
 
 [Quiz Kpop Scandals](http://heroku.com "Find me on Heroku") 
 > This is a quiz about some scandals that occurred in the Kpop industry in South Korea. The application is made with  __Typescript__ and is made so using the __Google service worker__. The application is usable offline.
