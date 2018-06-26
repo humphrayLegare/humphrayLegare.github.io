@@ -6,7 +6,7 @@ Here you can find a list of my personal projects I made to show my skills with d
 
 ## Projects
 [Carole Vezina](https://carolevezina.com)
-> Personnal website for a self-employed marketer. I made the website using Wordpress and some plugins like Contact Form 7. The styles were integrated using SASS.  
+> Personnal website for a self-employed marketer. I made the website using Wordpress and some plugins like Contact Form 7. The styles have been integrated using SASS.  
 
 [Landing-pages](https://prospection.qc.ca/seo/)
 > I made some landing-pages for marketing at Prospection. The pages are integrate with MDBBootstrap, Bootstrap4 and the form is validate
