@@ -5,6 +5,10 @@ I am a web developer based in Quebec City.<br/>
 Here you can find a list of my personal projects I made to show my skills with different technologies.
 
 ## Projects
+
+SendMoney
+> This application if a fake one about sending money. A customer can access the application and send money through the app easily. It was greatly inspired by my time working as a clerk at Western Union after having to send many web forms through their app that is laking in many ways. The back-end of the application is serve by [Nodejs](https://nodejs.org/en/) with [Express](https://expressjs.com/) and is using mongoDB for the database with the help of [Mongoose](http://mongoosejs.com/). There is an integration  of the OAuth authentication with Google with the help of [Passport](http://www.passportjs.org/) and the Google strategy. The front-end is serve by [React](https://reactjs.org/) and [Redux](https://redux.js.org/).
+
 [Carole Vezina](https://carolevezina.com)
 > Personnal website for a self-employed marketer. I made the website using [Wordpress](https://wordpress.org/) and some plugins like [Contact Form 7](https://en-ca.wordpress.org/plugins/contact-form-7/). The styles have been integrated using [SASS](https://sass-lang.com/).  
 
