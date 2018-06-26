@@ -20,7 +20,7 @@ SendMoney (_in development_)
 [Quiz Kpop Scandals](https://github.com/humphrayLegare/quiz/blob/master/README.md) 
 > This is a quiz about some scandals that occurred in the Kpop industry in South Korea. The application is made with  __Typescript__ and is made so using the __Google service worker__. The application is usable offline.
 
-[TravelList](http://heroku.com "Find me on Heroku") (_in development_)
+[TravelList](https://github.com/humphrayLegare/travelList) (_in development_)
 > This application was made with [Angular](https://angular.io/) and the implementation of the google map with [AGM](https://angular-maps.com/). It is a small application so one can make a list of different places he or she would like to travel and get the list send by email.
 
 [Home Selling Tool](http://heroku.com "Find me on Heroku") (_in development_)
