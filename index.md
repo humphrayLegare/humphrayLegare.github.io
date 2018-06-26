@@ -13,7 +13,7 @@ Here you can find a list of my personal projects I made to show my skills with d
  with __jQuery__ and __PHP__.
  (other version can be found here [Dev](https://prospection.qc.ca/dev/), [Ecommerce](https://prospection.qc.ca/ecommerce/))
 
-[Quiz Kpop Scandals](http://heroku.com "Find me on Heroku") 
+[Quiz Kpop Scandals](https://github.com/humphrayLegare/quiz/blob/master/README.md) 
 > This is a quiz about some scandals that occurred in the Kpop industry in South Korea. The application is made with  __Typescript__ and is made so using the __Google service worker__. The application is usable offline.
 
 [TravelList](http://heroku.com "Find me on Heroku") (_in development_)
