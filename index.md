@@ -9,7 +9,7 @@ Here you can find a list of my personal projects I made to show my skills with d
 > Personnal website for a self-employed marketer. I made the website using Wordpress and some plugins like Contact Form 7. The styles have been integrated using SASS.  
 
 [Landing-pages](https://prospection.qc.ca/seo/)
-> I made some landing-pages for marketing at Prospection. The pages are integrate with MDBBootstrap, Bootstrap4 and the form is validate
+> I made some landing-pages for marketing at Prospection. The pages are integrate with [MDBBootstrap](https://mdbootstrap.com/), Bootstrap4 and the form is validate
  with __jQuery__ and __PHP__.
  (other version can be found here [Dev](https://prospection.qc.ca/dev/), [Ecommerce](https://prospection.qc.ca/ecommerce/))
 
