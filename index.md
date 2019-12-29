@@ -10,9 +10,8 @@
 - Got a big interest in Common-lisp and Clojure
 
 ## Projects
-Beautiful Korea (_in development_)
-> Im creating a  website base on Common-lisp made possible thanks to [Caveman2](https://8arrow.org/caveman/).
-I felt in love with Korea when I went there few years ago. I wanna show its beauty
+Korean Market (_in development_)
+> Creating an app with React-Native about a fake Korean Market. One can choose between few products to buy.
 
 SendMoney (_in development_)
 > This application is a fake one which serves the purpose of sending money. A customer can access the application and send money through the app easily. It was greatly inspired by my time working as a clerk at [Western Union](https://www.westernunion.com/ca/en/home.html) after having to send many web forms through their app that is laking in many ways. The back-end of the application is serve by [Nodejs](https://nodejs.org/en/) with [Express](https://expressjs.com/) and is using [mongoDB](https://www.mongodb.com/) for the database with the help of [Mongoose](http://mongoosejs.com/). There is an integration  of the [OAuth](https://developers.google.com/identity/protocols/OAuth2) authentication with Google with the help of [Passport](http://www.passportjs.org/) and the [Google strategy](https://github.com/jaredhanson/passport-google-oauth2). The front-end is serve by [React](https://reactjs.org/) and [Redux](https://redux.js.org/).
