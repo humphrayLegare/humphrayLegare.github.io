@@ -1,11 +1,12 @@
 <img src="https://humphraylegare.github.io/humphray200.jpg" alt="humphray legare" style="display:block; margin:auto; width:260px; text-align:center; margin-top:20px; margin-bottom:20px;"/>
 
 ## Welcome to my portfolio
- I am a web developer based in Quebec City.<br/>
+ I am a Full Stack web developer based in Quebec City.<br/>
  Here you can find a list of my personal projects I made to show my skills with different technologies.
 
 ## Summary about me
-- These days, I work mostly with Django, Drupal8 and Laravel
+- These days, I work mostly with Django and Drupal8
+- I spare my freetime on React and React-Native
 - Got a big interest in Common-lisp and Clojure
 
 ## Projects
